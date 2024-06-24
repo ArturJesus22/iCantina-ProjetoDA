@@ -1,26 +1,26 @@
 #  iCantina-DA
-Desenvolvimento de Aplicações
-iCantina é um software intuitivo para a gestão eficiente de cantinas principalmente escolares. 
-Este documento fornece as instruções necessárias para instalar, configurar e utilizar o programa.
+Desenvolvimento de Aplicações<br>
+iCantina é um software intuitivo para a gestão eficiente de cantinas principalmente escolares. <br>
+Este documento fornece as instruções necessárias para instalar, configurar e utilizar o programa.<br>
 
 #  Pré Requesitos:
--> Sistema operativo compatível (Windows)
--> Microsoft Visual Studio 2022
--> Microsoft SQL Server instalado
--> Microsoft .NET Framework (versão 6.5.4)
-->Guna.I2.WinForms (versão 2.0.4.6)
--> iTextSharp (versão 5.5.13.4)
+-> Sistema operativo compatível (Windows)<br>
+-> Microsoft Visual Studio 2022<br>
+-> Microsoft SQL Server instalado<br>
+-> Microsoft .NET Framework (versão 6.5.4)<br>
+->Guna.I2.WinForms (versão 2.0.4.6)<br>
+-> iTextSharp (versão 5.5.13.4)<br>
 
 #  Instalação:
--> Verificar as versões corretas do .NET Framework ou .NET Core instaladas.
--> Configurar corretamente o Microsoft SQL Server e assegurar que esteja acessível.
--> Fazer download do código-fonte do sistema de gestão de cantinas a partir de o repositório Git.
--> Abrir o projeto no Visual Studio 2022.
--> Restaurar as dependências do projeto utilizando o NuGet.
--> Configurar as conexões de base de dados.
--> Compilar e executar o sistema a partir do Visual Studio 2022.
--> Ir até a consola NuGet, fazer a primeira migração
--> Atualizar a base dados  através da consola NuGet , "update-database"
+-> Verificar as versões corretas do .NET Framework ou .NET Core instaladas.<br>
+-> Configurar corretamente o Microsoft SQL Server e assegurar que esteja acessível.<br>
+-> Fazer download do código-fonte do sistema de gestão de cantinas a partir de o repositório Git.<br>
+-> Abrir o projeto no Visual Studio 2022.<br>
+-> Restaurar as dependências do projeto utilizando o NuGet.<br>
+-> Configurar as conexões de base de dados.<br>
+-> Compilar e executar o sistema a partir do Visual Studio 2022.<br>
+-> Ir até a consola NuGet, fazer a primeira migração<br>
+-> Atualizar a base dados  através da consola NuGet , "update-database"<br>
 
 # Utilização
 -> Abrir a aplicação da gestão da Cantina.
