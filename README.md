@@ -1,6 +1,6 @@
 #  iCantina-DA
 Desenvolvimento de Aplicações
-iCantinaé um software intuitivo para a gestão eficiente de cantinas principalmente escolares. 
+iCantina é um software intuitivo para a gestão eficiente de cantinas principalmente escolares. 
 Este documento fornece as instruções necessárias para instalar, configurar e utilizar o programa.
 
 #  Pré Requesitos:
