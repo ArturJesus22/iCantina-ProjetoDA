@@ -23,14 +23,14 @@ Este documento fornece as instruções necessárias para instalar, configurar e 
 -> Atualizar a base dados  através da consola NuGet , "update-database"<br>
 
 # Utilização
--> Abrir a aplicação da gestão da Cantina.
--> Efetuar Registo.
--> Efetuar Login.
--> Explorar as funcionalidades disponíveis, como gerir as reservas, menus, extras, emissão de faturas, registar os clientes e funcionários.
--> Realizar testes abrangentes em diferentes cenários para garantir o bom funcionamento do sistema.
+-> Abrir a aplicação da gestão da Cantina.<br>
+-> Efetuar Registo.<br>
+-> Efetuar Login.<br>
+-> Explorar as funcionalidades disponíveis, como gerir as reservas, menus, extras, emissão de faturas, registar os clientes e funcionários.<br>
+-> Realizar testes abrangentes em diferentes cenários para garantir o bom funcionamento do sistema.<br>
 
 # Autores
-Artur Jesus `2220866`
+Artur Jesus `2220866`<br>
 <br> Diogo Fernandes `2231657`
 
 >Unidade Curricular: Desenvolvimento de Aplicações @2024
